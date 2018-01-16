@@ -39,4 +39,4 @@ SOFTWARE
 [1]: https://localhost.mlh.io/activities/hardware-hacking-101/
 [2]: src/blink.ino
 [3]: src/light-switch.ino
-[3]: src/night-light.ino
+[4]: src/night-light.ino
